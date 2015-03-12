@@ -1,0 +1,11 @@
+D:\UnityEmptyGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\UnityEmptyGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityEmptyGame\Temp\bin\Debug\UnityEditor.dll
+D:\UnityEmptyGame\Temp\bin\Debug\UnityEngine.dll
+D:\UnityEmptyGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityEmptyGame\Temp\bin\Debug\nunit.framework.dll
+D:\UnityEmptyGame\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityEmptyGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityEmptyGame\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\UnityEmptyGame\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\UnityEmptyGame\obj\Debug\Assembly-CSharp-firstpass.pdb
