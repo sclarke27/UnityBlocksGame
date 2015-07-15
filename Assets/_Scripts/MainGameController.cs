@@ -197,6 +197,7 @@ public class MainGameController : MonoBehaviour
         GameObject cube;
 
         //build cube wall
+
         for (float z = 0.5f; z < 1; z = z + (cubeTemplate.transform.localScale.z + 0.01f))
         {
             for (float y = 1.5f; y < totalCubes; y = y + (cubeTemplate.transform.localScale.y + 0.01f))

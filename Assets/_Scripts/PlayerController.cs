@@ -74,7 +74,7 @@ public class PlayerController : MonoBehaviour
     {
         if (mPlayerActive)
         {
-            int speed = 1000;
+            int speed = 2000;
             GameObject projectile = Instantiate(projectileTemplate, gunBarrelObject.transform.position, gunBarrelObject.transform.rotation) as GameObject;
             projectile.rigidbody.AddForce(playerCam.transform.forward * speed);
             score.TickTotalShotCount();

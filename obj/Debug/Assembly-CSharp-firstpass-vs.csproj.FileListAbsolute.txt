@@ -9,3 +9,15 @@ D:\UnityEmptyGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
 D:\UnityEmptyGame\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
 D:\UnityEmptyGame\obj\Debug\Assembly-CSharp-firstpass.dll
 D:\UnityEmptyGame\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\UnityEditor.dll
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\UnityEngine.dll
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\nunit.framework.dll
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityBlocksGame\UnityBlocksGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityBlocksGame\UnityBlocksGame\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+D:\UnityBlocksGame\UnityBlocksGame\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\UnityBlocksGame\UnityBlocksGame\obj\Debug\Assembly-CSharp-firstpass.pdb
